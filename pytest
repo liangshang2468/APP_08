@@ -1,0 +1,8 @@
+[pytest]
+
+addopts = -s
+
+testpaths = ./Scripts
+
+python_files =02*.py
+

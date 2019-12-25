@@ -1,0 +1,35 @@
+#name: "zero"   #yaml编写时 冒号后 必须 跟空格
+#Name: "liangshang"
+
+
+#----------对象---------
+
+
+
+#value1:
+#   name: "zero"
+#   Name: "liangshang"
+#
+#
+##------数组------
+#value2:
+#   - 1   # - 后面必须跟空格
+#   - 2
+#
+#value3: [1,2,3]   #python数组类型
+#
+#value4：  #字典 套 列表 套 字典
+#   - name: "zero"
+#   - name: "liangshang"
+
+#value5: 369
+#value6: 369.369
+
+value7: "2020-11-11 12:12:12"   #返回值 datetime.datetime
+value8: 2020-11-11   #返回值 datetime.date
+value9: "12:12:12"   #返回整数
+
+
+
+
+
